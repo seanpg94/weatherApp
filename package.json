@@ -1,0 +1,21 @@
+{
+  "name": "weatherService",
+  "version": "1.0.0",
+  "description": "simple api to getweather using yahoo weather",
+  "main": "services.js",
+  "dependencies": {
+    "body-parser": "~1.0.2",
+    "express": "~4.0.0",
+    "request": "~2.34.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sean Gallagher",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git@heroku.com:weather-app-spg.git"
+  }
+}
